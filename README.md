@@ -1,4 +1,4 @@
-# DigitalHumanitiesMinorFeatures
+# Digital Humanities Minor Features
 This repo contains small works on digital humanities.
 
 ## Features list
