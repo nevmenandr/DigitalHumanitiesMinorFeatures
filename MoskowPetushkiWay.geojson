@@ -9,7 +9,12 @@
         "coordinates": [
           37.66106843948364,
           55.75740995242725
-        ]
+        ],
+      "title": "Курский вокзал",
+      "description": "пойдешь направо — обязательно попадешь на Курский вокзал",
+      "marker-symbol": "star",
+      "marker-size": "medium",
+      "marker-color": "#f44"
       }
     },
     {
