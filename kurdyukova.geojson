@@ -1,1 +1,3540 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Тамбов"},"geometry":{"type":"Point","coordinates":[41.495361328125,52.736291655910925]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Кронштадт"},"geometry":{"type":"Point","coordinates":[29.7235107421875,60.014775681757094]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"title":"Из Тамбова в Питер"},"geometry":{"type":"LineString","coordinates":[[41.495361328125,52.736291655910925],[30.30303955078125,59.94400716933027]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Питер"},"geometry":{"type":"Point","coordinates":[30.30303955078125,59.94400716933027]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"title":"Из Питера в Кронштадт"},"geometry":{"type":"LineString","coordinates":[[30.30303955078125,59.94400716933027],[30.21514892578125,59.97013355162739],[29.972076416015625,59.91028747108206],[29.7235107421875,60.014775681757094]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"title":"Из Кронштадта до Борнгольма"},"geometry":{"type":"LineString","coordinates":[[29.70703125,59.99349233206085],[28.168945312499996,60.09771842541544],[25.598144531249996,59.883424842958966],[24.642333984375,59.88893689676585],[21.961669921875,59.50645493054482],[18.951416015625,58.58543569119917],[17.962646484375,57.69240553526455],[17.655029296875,56.46249048388979],[14.600830078125,55.36038057233305]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Борнгольм"},"geometry":{"type":"Point","coordinates":[14.776611328124998,55.26033810292462]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"title":"От Борнгольма до Травемюнде"},"geometry":{"type":"LineString","coordinates":[[14.600830078125,55.36038057233305],[12.645263671875,54.88608683754535],[10.889596939086914,53.961186044136845],[10.872387886047363,53.95808036042971]]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"title":"в Любек"},"geometry":{"type":"LineString","coordinates":[[10.872387886047363,53.95808036042971],[10.684890747070312,53.86872460835024]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Любек"},"geometry":{"type":"Point","coordinates":[10.684890747070312,53.86872460835024]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"title":"Из Любека в Гамбург"},"geometry":{"type":"LineString","coordinates":[[10.684890747070312,53.86872460835024],[10.00579833984375,53.54683559190011]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Гамбург"},"geometry":{"type":"Point","coordinates":[10.00579833984375,53.54683559190011]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[10.00579833984375,53.54683559190011],[10.040130615234375,53.499483324932996],[10.020904541015625,53.38578562974984],[9.735260009765625,53.36858181608028],[9.456481933593748,53.27260472674136],[9.232635498046875,53.15418258582586],[9.163970947265625,53.08330205836349],[8.9044189453125,53.03956165303218],[8.817901611328125,53.075877572693564]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Бремен"},"geometry":{"type":"Point","coordinates":[8.817901611328125,53.075877572693564]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.81103515625,53.072577390276976],[8.8330078125,53.02469631686732],[8.228759765625,52.85752259337269],[8.01727294921875,52.34708539110632],[8.06396484375,52.26311463698559]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Оснабрюк"},"geometry":{"type":"Point","coordinates":[8.0584716796875,52.27319953703499]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.06396484375,52.274880130680536],[7.86346435546875,52.17393169256849],[7.838745117187499,52.091320158551355],[7.643737792968749,51.96288477548509]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Мюнстер"},"geometry":{"type":"Point","coordinates":[7.646484374999999,51.96626938051444]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Петергоф"},"geometry":{"type":"Point","coordinates":[29.920921325683594,59.88497520050208]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.63275146484375,51.95611479866179],[7.59429931640625,51.896833883012484],[7.613525390624999,51.66744494147575],[7.52838134765625,51.6163111603273],[7.489929199218751,51.53779400311784],[7.465209960937499,51.49164465653034],[7.3333740234375,51.44202475087509],[7.25921630859375,51.4163381064004],[7.250976562499999,51.28081671677971],[7.0147705078125,51.205162601119824],[7.00927734375,50.96015671954611],[6.96533203125,50.93766174471314]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Колонь"},"geometry":{"type":"Point","coordinates":[6.96533203125,50.942853859021554]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Бонн"},"geometry":{"type":"Point","coordinates":[7.094421386718749,50.73819338460293]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Кобленц"},"geometry":{"type":"Point","coordinates":[7.583312988281249,50.35597574998605]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Тут всё горы близ Нейвида"},"geometry":{"type":"Point","coordinates":[7.39654541015625,50.49421062933561]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Mäuseturm"},"geometry":{"type":"Point","coordinates":[7.879128456115723,49.972256746321364]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Иоганнисберг"},"geometry":{"type":"Point","coordinates":[7.980451583862305,50.00393268443712]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","tilte":"Это замок Биберих"},"geometry":{"type":"Point","coordinates":[8.23399543762207,50.03955696315653]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Майнц"},"geometry":{"type":"Point","coordinates":[8.272705078125,49.999795027127405]}},{"type":"Feature","properties":{"stroke":"#555555","stroke-width":2,"stroke-opacity":1,"title":"Рейн"},"geometry":{"type":"LineString","coordinates":[[6.963958740234375,50.936363625542924],[6.9756317138671875,50.913424211321335],[6.9934844970703125,50.896970121375354],[7.0360565185546875,50.89393847048056],[7.0497894287109375,50.8865750680795],[7.046356201171875,50.875311142200765],[6.980438232421875,50.84193661767783],[6.9824981689453125,50.828493376227115],[7.01751708984375,50.822420965626726],[7.029876708984375,50.81070765753148],[7.0291900634765625,50.786838126951494],[7.0964813232421875,50.758612961438885],[7.109527587890624,50.73515140897789],[7.123260498046875,50.72298153061673],[7.1527862548828125,50.71385204707258],[7.172012329101562,50.700371939869676],[7.192611694335937,50.6699187299341],[7.209091186523437,50.6503312283444],[7.2145843505859375,50.60023715808726],[7.20977783203125,50.58890414471025],[7.2571563720703125,50.5780044432562],[7.2818756103515625,50.56012347111517],[7.3038482666015625,50.512989888239126],[7.390365600585937,50.44351305245805],[7.434997558593749,50.44438760916378],[7.469329833984374,50.41245581799453],[7.505035400390625,50.41289338526561],[7.5304412841796875,50.42251884281916],[7.569580078124999,50.413330948495485],[7.6142120361328125,50.38269176218573],[7.603912353515626,50.352470894936836],[7.587432861328125,50.31960029466136],[7.6080322265625,50.289777956613456],[7.6499176025390625,50.266521106936445],[7.6499176025390625,50.24940031918085],[7.627944946289062,50.24632670595806],[7.58880615234375,50.248083080644776],[7.578506469726562,50.23842221881728],[7.606658935546874,50.231394907552854],[7.6430511474609375,50.20239629947013],[7.6444244384765625,50.17997621067504],[7.6705169677734375,50.17162093714734],[7.6979827880859375,50.168102490105014],[7.7172088623046875,50.15182630274364],[7.733001708984375,50.13554457352548],[7.724761962890626,50.11573500084129],[7.771453857421874,50.07432855106039],[7.7748870849609375,50.052289264025866],[7.8167724609375,50.03156310080887],[7.8497314453125,50.01347552251671],[7.864837646484374,49.981695487970676],[7.8792572021484375,49.973747197046386],[7.9396820068359375,49.97418880321091],[8.007659912109375,49.991849726784736],[8.057785034179688,50.0086215988794],[8.1024169921875,50.01700534087497],[8.19854736328125,50.03817880597379],[8.232192993164062,50.035973672195496],[8.274078369140625,50.00553248312461]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.277511596679688,50.01038671874375],[8.3001708984375,50.050966584791894],[8.444366455078125,50.055375373799976],[8.485565185546875,50.0831414307389],[8.483505249023438,50.09679819285972],[8.58856201171875,50.13554457352548],[8.685379028320312,50.11485438509181]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Франкфурт"},"geometry":{"type":"Point","coordinates":[8.686065673828125,50.11529469499107]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.690185546875,50.1135334310997],[8.59954833984375,50.1144140711435],[8.6187744140625,50.08622555591017],[8.59130859375,50.026269880390814],[8.610534667968748,49.93442801644479],[8.59130859375,49.834439500479235],[8.536376953125,49.75997752330658],[8.559722900390625,49.52342546618327],[8.4649658203125,49.48418574950772]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Мангейм"},"geometry":{"type":"Point","coordinates":[8.4649658203125,49.48597005571962]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.459472656249998,49.48597005571962],[8.536376953125,49.46009125091839],[8.55560302734375,49.335861591104106],[8.62152099609375,49.279452550408074],[8.551483154296875,49.11702904077932],[8.430633544921875,48.972104465264906],[8.26171875,48.87736082887189],[8.16009521484375,48.793294897853706],[8.238372802734375,48.76343113791796]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Бад-Баден"},"geometry":{"type":"Point","coordinates":[8.235626220703125,48.7643363613842]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.2342529296875,48.7643363613842],[8.16009521484375,48.793294897853706],[7.897796630859375,48.47929406532528],[7.737121582031249,48.19996433122713],[7.811279296874999,48.05513584361998],[7.78656005859375,48.02483529097477],[7.833251953125,47.99911175452292]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Фрайбург"},"geometry":{"type":"Point","coordinates":[7.833251953125,48.00003067321041]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.834625244140624,47.99957121591264],[7.7838134765625,48.02253906833847],[7.708969116210937,47.96326115834283],[7.60528564453125,47.931066347509784],[7.564773559570312,47.86339196166155],[7.537994384765625,47.78548011929362],[7.5537872314453125,47.7416321719316],[7.520828247070312,47.70283056455047],[7.5263214111328125,47.660762874112834],[7.579193115234374,47.62328946917188],[7.6032257080078125,47.60292227835496],[7.59429931640625,47.56123740692762]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Базель"},"geometry":{"type":"Point","coordinates":[7.594985961914062,47.5626274374099]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.598419189453125,47.55984733956309],[7.673950195312499,47.52740196355499],[7.738494873046875,47.53203824675999],[7.798919677734375,47.462450962249356],[7.811279296874999,47.39184176086316],[7.838745117187499,47.349989032003215],[7.804412841796874,47.31462086107463],[7.72613525390625,47.287613425713516],[7.705535888671875,47.2624561696528],[7.6080322265625,47.21956811231547],[7.566833496093749,47.07853932995949],[7.4981689453125,47.01584377790821],[7.463836669921875,46.965259400349275]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Берн"},"geometry":{"type":"Point","coordinates":[7.462463378906249,46.96713374957253]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.465209960937499,46.965259400349275],[7.6080322265625,46.75679832604253]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Тун"},"geometry":{"type":"Point","coordinates":[7.613525390624999,46.75679832604253]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.6100921630859375,46.755387052132136],[7.620391845703124,46.72056392864264],[7.713088989257813,46.66687348356156],[7.7611541748046875,46.65273554711876],[7.827072143554688,46.66027623993407],[7.868957519531249,46.682892009248675],[7.7666639,46.5531194]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Лаутербруннен"},"geometry":{"type":"Point","coordinates":[7.7666639,46.5531194]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.465209960937499,46.96666516842385],[7.404098510742187,46.953074529521054],[7.1829986572265625,46.96291637146266],[7.124633789062499,46.92166226568694]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Морат"},"geometry":{"type":"Point","coordinates":[7.11639404296875,46.92494500606732]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.115020751953125,46.924007100770275],[7.00103759765625,46.86347752077682],[6.9412994384765625,46.8216769734396]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Пайерн"},"geometry":{"type":"Point","coordinates":[6.9385528564453125,46.8202673995955]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.9385528564453125,46.82214682317531],[6.9083404541015625,46.76761686478674],[6.788864135742187,46.65462081890466],[6.7339324951171875,46.57538281460009],[6.6350555419921875,46.52249306235416]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":""," title":"Лозанна"},"geometry":{"type":"Point","coordinates":[6.6309356689453125,46.52013071095869]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Мон Блан"},"geometry":{"type":"Point","coordinates":[6.8564201,45.8326215]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Шилионский замок"},"geometry":{"type":"Point","coordinates":[6.9275665283203125,46.41414760139055]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Веве"},"geometry":{"type":"Point","coordinates":[6.84173583984375,46.46080204440721]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Морж"},"geometry":{"type":"Point","coordinates":[6.498241424560547,46.508671849518414]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Роль"},"geometry":{"type":"Point","coordinates":[6.338081359863281,46.459737792519306]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Нион"},"geometry":{"type":"Point","coordinates":[6.239891052246094,46.38199121488583]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.627845764160156,46.503827686763586],[6.502189636230469,46.50784482789971],[6.4249420166015625,46.45394316729876],[6.340484619140625,46.45820050306708],[6.286582946777344,46.39075359957966],[6.2450408935546875,46.38151753240084],[6.149597167968749,46.20312161266488]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Женева"},"geometry":{"type":"Point","coordinates":[6.145820617675781,46.20217114444467]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Тонен"},"geometry":{"type":"Point","coordinates":[6.176719665527344,46.30863995802435]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Коппей"},"geometry":{"type":"Point","coordinates":[6.191997528076171,46.31634705751069]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Ферне"},"geometry":{"type":"Point","coordinates":[6.106681823730468,46.25679635768958]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.145477294921875,46.20312161266488],[6.106681823730468,46.25727112112845]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.148223876953125,46.20454728416395],[6.278686523437499,46.37725420510028],[6.572570800781249,46.45678142812658],[6.928253173828124,46.417032314661775]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.929283142089844,46.41502042817326],[6.934261322021484,46.40413128408044],[6.927223205566406,46.397738817459604]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Вильнёв"},"geometry":{"type":"Point","coordinates":[6.927051544189453,46.39809397414284]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Клюз"},"geometry":{"type":"Point","coordinates":[6.5787506103515625,46.05941467808127]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Саланш"},"geometry":{"type":"Point","coordinates":[6.637802124023437,45.93873576672614]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Серво"},"geometry":{"type":"Point","coordinates":[6.7486348,45.9458584]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.639862060546875,45.93825825275084],[6.68243408203125,45.92536382097964],[6.74835205078125,45.94637543106672]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.930999755859375,46.395252655951154],[6.878814697265625,46.357354276167015],[6.72637939453125,46.40661704105617],[6.499786376953125,46.37725420510028],[6.611022949218749,46.306149740069664],[6.62750244140625,46.25204849722289],[6.689300537109375,46.1912395780416],[6.576690673828125,46.06084407436472],[6.628875732421875,46.0017315150253],[6.6357421875,45.93969078234]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Гласье Босона"},"geometry":{"type":"Point","coordinates":[6.8364674,45.8689873]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Шамуни"},"geometry":{"type":"Point","coordinates":[6.86920166015625,45.921065010863714]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.7490386962890625,45.94661415361444],[6.759681701660155,45.92608025694781],[6.789894104003905,45.89144193429572],[6.867828369140624,45.920348510126516]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Мер де Гляс"},"geometry":{"type":"Point","coordinates":[6.937522888183593,45.91461617112911]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Зелёная иголка"},"geometry":{"type":"Point","coordinates":[6.9656598,45.934875]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[6.86920166015625,45.92082617831274],[6.937522888183593,45.91497445966544]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Писваш"},"geometry":{"type":"Point","coordinates":[7.1956548,46.0495312]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.645797729492187,46.30899569419859],[8.004913330078125,46.3161099321717],[8.059158325195312,46.29381556233369],[8.048171997070312,46.252760702497454],[8.016586303710938,46.22806552245937],[8.057785034179688,46.19646798981256]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Симплон"},"geometry":{"type":"Point","coordinates":[8.060188293457031,46.19527975808817]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Сион"},"geometry":{"type":"Point","coordinates":[7.320327758789063,46.214050815339526]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Мартиньи"},"geometry":{"type":"Point","coordinates":[7.0800018310546875,46.10442288519013]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[7.0806884765625,46.10942153064161],[7.325134277343749,46.223552702209886],[7.643737792968749,46.31089291474789]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Бриг"},"geometry":{"type":"Point","coordinates":[8.005599975585938,46.3161099321717]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Бавена"},"geometry":{"type":"Point","coordinates":[8.504447937011719,45.90840546895658]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.06671142578125,46.1912395780416],[8.26446533203125,46.20834889395228],[8.294677734375,46.11513371326539],[8.26171875,46.010316293096196],[8.39630126953125,45.98551218814564],[8.4979248046875,45.91103315853962]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Изола Мадре"},"geometry":{"type":"Point","coordinates":[8.538007736206055,45.911630343368486]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.507194519042969,45.909361006834665],[8.538265228271484,45.91043596728516]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.538007736206055,45.9103463880428],[8.52590560913086,45.895354758617245]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Изола Белла"},"geometry":{"type":"Point","coordinates":[8.52715015411377,45.895354758617245]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.526420593261719,45.894787266838584],[8.575000762939453,45.880807217630455],[8.588390350341797,45.8557059963863],[8.580322265624998,45.810854192882644],[8.554401397705078,45.79757112569381],[8.556976318359373,45.771234966487924],[8.577919006347656,45.752912029787566],[8.594226837158203,45.729071232850465],[8.620662689208984,45.724757237460835],[8.629932403564453,45.72379852657417]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Сесто Календе"},"geometry":{"type":"Point","coordinates":[8.631992340087889,45.724877075164834]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[8.637313842773438,45.723918366334765],[8.697052001953125,45.719603972998634],[8.822021484374998,45.78428489134373],[8.968963623046875,45.78332720254533],[9.081573486328125,45.78859428734741],[9.106979370117188,45.79529713006591],[9.092559814453125,45.80391388619765]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Комо"},"geometry":{"type":"Point","coordinates":[9.091873168945312,45.80487122128867]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"вилла д'Эст"},"geometry":{"type":"Point","coordinates":[9.07994270324707,45.84521391391277]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[9.07994270324707,45.81360614402168],[9.080801010131836,45.81540082150529],[9.07341957092285,45.82383503096524],[9.084234237670898,45.83657364805668],[9.080114364624023,45.84524380869701]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Торно"},"geometry":{"type":"Point","coordinates":[9.115734100341797,45.857379763789915]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Вилла Мельдзи"},"geometry":{"type":"Point","coordinates":[9.256753921508789,45.98299239926461]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[9.081573486328125,45.84506443975059],[9.098052978515625,45.84602106744843],[9.113502502441406,45.86275938922635],[9.150238037109375,45.88283872530761],[9.139938354492188,45.93133383799366],[9.184913635253906,45.959264977507075],[9.218902587890625,45.967140446803],[9.2559814453125,45.98408084285212]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[9.10491943359375,45.80199916666154],[9.1790771484375,45.47554027158593]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Милан"},"geometry":{"type":"Point","coordinates":[9.1790771484375,45.47361429775641]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Вилла Пиццо"},"geometry":{"type":"Point","coordinates":[9.08768892288208,45.84611075045171]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Вилла Жено"},"geometry":{"type":"Point","coordinates":[9.076831340789793,45.82329671534156]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Вилла Плиньяна"},"geometry":{"type":"Point","coordinates":[9.13938045501709,45.857865445793394]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[9.261474609375,45.537136680398596],[9.656982421875,45.67548217560647],[10.469970703124998,45.4524242413431],[11.00830078125,45.40230699238177],[11.4862060546875,45.4947963896697],[11.964111328125,45.42929873257377],[12.227783203125,45.46783598133375]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Венеция"},"geometry":{"type":"Point","coordinates":[12.3651123046875,45.433153642271385]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[12.271728515625,45.463983441272724],[11.9476318359375,45.41773242370463],[11.7938232421875,45.29034662473613],[11.574096679687498,44.902577996288876],[11.337890625,44.52001001133986],[11.2060546875,44.08758502824516],[11.25,43.75919263886012]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Флоренция"},"geometry":{"type":"Point","coordinates":[11.25,43.74728909225908]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[11.2445068359375,43.75125720420175],[11.77734375,43.44494295526125],[11.788330078125,43.23319741022136],[12.0684814453125,42.74701217318067],[12.2003173828125,42.69051116998238],[12.271728515625,42.524748042348165],[12.491455078125,42.374778361114195],[12.491455078125,42.29762739128456],[12.6397705078125,42.15118709351198],[12.540893554687498,42.07376224008719],[12.4749755859375,41.902277040963696]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Рим"},"geometry":{"type":"Point","coordinates":[12.480468749999998,41.89001042401827]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[12.480468749999998,41.89818843043047],[13.0572509765625,41.74672584176937],[13.3319091796875,41.6154423246811],[14.0789794921875,41.31494988250965],[14.3206787109375,41.03378713521864],[14.3206787109375,40.83043687764923]]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Неаполь"},"geometry":{"type":"Point","coordinates":[14.315185546875,40.83043687764923]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Искья"},"geometry":{"type":"Point","coordinates":[13.932723999023438,40.72852712420599]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Прочида"},"geometry":{"type":"Point","coordinates":[14.014434814453123,40.763381209080215]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","tilte":"Капре"},"geometry":{"type":"Point","coordinates":[14.22454833984375,40.551374198715166]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Ле Везюв"},"geometry":{"type":"Point","coordinates":[14.429168701171875,40.82576077323659]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Помпеи"},"geometry":{"type":"Point","coordinates":[14.500751495361328,40.74881754464601]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Драхенфельс"},"geometry":{"type":"Point","coordinates":[7.2015168,50.6651076]}},{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","title":"Рюдестейм"},"geometry":{"type":"Point","coordinates":[7.912366390228272,49.97668656179061]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Тамбов",
+        "init": "Мне сказали доктора:",
+        "fin": "Отправляйтесь-ка в Кронштадт”.",
+        "seg": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.452274,
+          52.721219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Кронштадт",
+        "seg": 6,
+        "init": "Вот является Кронштадт.",
+        "fin": "Точно, пароход дымится;"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.777472,
+          59.992884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "Из Тамбова в Питер",
+        "init": "Вот в дорогу я пустилась:",
+        "fin": "В город Питер дотащилась",
+        "seg": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.452274,
+            52.721219
+          ],
+          [
+            30.30303955078125,
+            59.94400716933027
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Питер",
+        "init": "И промыслила билет",
+        "fin": "Отвязалася зацепа,",
+        "seg": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.30303955078125,
+          59.94400716933027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "Из Кронштадта до Борнгольма",
+        "seg": 6,
+        "init": "Мы идем, волна клубится",
+        "fin": "Очень скучно, кроме шуток;",
+        "comm": "Так мы плыли двое суток;"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.777472,
+            59.992884
+          ],
+          [
+            28.168945312499996,
+            60.09771842541544
+          ],
+          [
+            25.598144531249996,
+            59.883424842958966
+          ],
+          [
+            24.642333984375,
+            59.88893689676585
+          ],
+          [
+            21.961669921875,
+            59.50645493054482
+          ],
+          [
+            18.951416015625,
+            58.58543569119917
+          ],
+          [
+            17.962646484375,
+            57.69240553526455
+          ],
+          [
+            17.655029296875,
+            56.46249048388979
+          ],
+          [
+            14.600830078125,
+            55.36038057233305
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "title": "Борнгольм",
+        "seg": 7,
+        "init": "Как вдруг появился мне",
+        "fin": "Сожалеть о нем должна."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.776611328124998,
+          55.26033810292462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "От Борнгольма до Травемюнде",
+        "seg": 8,
+        "init": "Но еще одна секунда - ",
+        "fin": "И пора мне отдохнуть."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.600830078125,
+            55.36038057233305
+          ],
+          [
+            12.645263671875,
+            54.88608683754535
+          ],
+          [
+            10.889596939086914,
+            53.961186044136845
+          ],
+          [
+            10.694929,
+            53.874519
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Любек",
+        "seg": 9,
+        "init": "Город Любек град ганзейский;",
+        "fin": "Но готовы ле шево."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.694929,
+          53.874519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Гамбург",
+        "seg": 11,
+        "init": "Город Гамбург ― город важный,",
+        "fin": "Я карете, очень тесной."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.941934,
+          53.567103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "Дилижанс",
+        "init": "Вся она была полна:",
+        "fin": "Что заснули до утра.",
+        "seg": 12
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.941934,
+            53.567103
+          ],
+          [
+            10.040130615234375,
+            53.499483324932996
+          ],
+          [
+            10.020904541015625,
+            53.38578562974984
+          ],
+          [
+            9.735260009765625,
+            53.36858181608028
+          ],
+          [
+            9.456481933593748,
+            53.27260472674136
+          ],
+          [
+            9.232635498046875,
+            53.15418258582586
+          ],
+          [
+            9.163970947265625,
+            53.08330205836349
+          ],
+          [
+            8.9044189453125,
+            53.03956165303218
+          ],
+          [
+            8.826576,
+            53.078686
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Бремен",
+        "seg": 13,
+        "init": "Но вот Бремен ― и пора",
+        "fin": "Всё привез, окроме брюк;"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.826576,
+          53.078686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 14,
+        "title": "От Бремена до Оснабрюка",
+        "init": "Отправляюсь в Оснабрюк.",
+        "fin": "Отправляюсь в Оснабрюк."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.826576,
+            53.078686
+          ],
+          [
+            8.8330078125,
+            53.02469631686732
+          ],
+          [
+            8.228759765625,
+            52.85752259337269
+          ],
+          [
+            8.01727294921875,
+            52.34708539110632
+          ],
+          [
+            8.042841,
+            52.281847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Оснабрюк",
+        "seg": 15,
+        "init": "Видеть город интересно,",
+        "fin": "Что тогда давали тон."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.042841,
+          52.281847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "От Оснабрюка до Мюнстера",
+        "seg": 16,
+        "init": "В Мюнстере мне показали,",
+        "fin": "В Мюнстере мне показали,"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.042841,
+            52.281847
+          ],
+          [
+            7.86346435546875,
+            52.17393169256849
+          ],
+          [
+            7.838745117187499,
+            52.091320158551355
+          ],
+          [
+            7.631134,
+            51.963737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Мюнстер",
+        "init": "В Мюнстере мне показали,",
+        "fin": "Что в ней тридевять земель.",
+        "seg": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.631134,
+          51.963737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "town",
+        "title": "Петергоф",
+        "init": "Кстати, берег Петергофа",
+        "seg": 4,
+        "fin": "Господину Курдюкову."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.920921325683594,
+          59.88497520050208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "От Мюнстера до Кёльна",
+        "seg": 18,
+        "init": "Наконец не без эласа",
+        "fin": "Я до Рейна добралася."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.631134,
+            51.963737
+          ],
+          [
+            7.59429931640625,
+            51.896833883012484
+          ],
+          [
+            7.613525390624999,
+            51.66744494147575
+          ],
+          [
+            7.52838134765625,
+            51.6163111603273
+          ],
+          [
+            7.489929199218751,
+            51.53779400311784
+          ],
+          [
+            7.465209960937499,
+            51.49164465653034
+          ],
+          [
+            7.3333740234375,
+            51.44202475087509
+          ],
+          [
+            7.25921630859375,
+            51.4163381064004
+          ],
+          [
+            7.250976562499999,
+            51.28081671677971
+          ],
+          [
+            7.0147705078125,
+            51.205162601119824
+          ],
+          [
+            7.00927734375,
+            50.96015671954611
+          ],
+          [
+            6.938399,
+            50.930779
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Колонь",
+        "seg": 19,
+        "init": "Вот уж с башнями Колонь.",
+        "fin": "Я со всеми расплатилась,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.938399,
+          50.930779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Бонн",
+        "init": "В стороне здесь город Бонн;",
+        "fin": "Ошибается ли он.",
+        "seg": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.090358,
+          50.736605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Кобленц",
+        "seg": 25,
+        "init": "В Кобленце большие зданья,",
+        "fin": "«Вю пар нуз-э апруве!»"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.597457,
+          50.354168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Тут всё горы близ Нейвида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.39654541015625,
+          50.49421062933561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "title": "Mäuseturm (Мейзе-турм)",
+        "init": "Вдруг мы видим меж волнами",
+        "seg": 27,
+        "fin": "Я лоханка, а он таз."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.879128456115723,
+          49.972256746321364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "tilte": "Это замок Биберих",
+        "seg": 33,
+        "init": "Это замок Биберих.",
+        "fin": "Иль лечась от почечуя."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.23399543762207,
+          50.03955696315653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Майнц",
+        "init": "Вот является Маянс,",
+        "seg": 35,
+        "fin": "Рейн роскошный оставляю,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.260656,
+          50.000176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Франкфурт",
+        "seg": 37,
+        "init": "Первой станцией считают",
+        "fin": "Посади меня в карету."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.686065673828125,
+          50.11529469499107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 38,
+        "title": "Из Франуфурта в Мангейм",
+        "init": "И пошел же, не зевай, ",
+        "fin": "Мусье Зарх как мне досаден!"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.690185546875,
+            50.1135334310997
+          ],
+          [
+            8.59954833984375,
+            50.1144140711435
+          ],
+          [
+            8.6187744140625,
+            50.08622555591017
+          ],
+          [
+            8.59130859375,
+            50.026269880390814
+          ],
+          [
+            8.610534667968748,
+            49.93442801644479
+          ],
+          [
+            8.59130859375,
+            49.834439500479235
+          ],
+          [
+            8.536376953125,
+            49.75997752330658
+          ],
+          [
+            8.559722900390625,
+            49.52342546618327
+          ],
+          [
+            8.4649658203125,
+            49.48418574950772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Мангейм",
+        "seg": 39,
+        "init": "Город Мангейм не огромный,",
+        "fin": "Но не кончен ― с’ е домаж!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4649658203125,
+          49.48597005571962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 40,
+        "title": "От Мангейма до Бадена",
+        "init": "Но не кончен ― с’ е домаж!",
+        "fin": "Но не кончен ― с’ е домаж!"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.459472656249998,
+            49.48597005571962
+          ],
+          [
+            8.536376953125,
+            49.46009125091839
+          ],
+          [
+            8.55560302734375,
+            49.335861591104106
+          ],
+          [
+            8.62152099609375,
+            49.279452550408074
+          ],
+          [
+            8.551483154296875,
+            49.11702904077932
+          ],
+          [
+            8.430633544921875,
+            48.972104465264906
+          ],
+          [
+            8.26171875,
+            48.87736082887189
+          ],
+          [
+            8.16009521484375,
+            48.793294897853706
+          ],
+          [
+            8.238372802734375,
+            48.76343113791796
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Бад-Баден",
+        "seg": 41,
+        "init": "Мне осталась от Бад-Бада",
+        "fin": "Заключила до Женевы,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.235626220703125,
+          48.7643363613842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 42,
+        "title": " От Бад-Бадена до Фрайбурга",
+        "init": "Мы под вечер уплелись,",
+        "fin": "Магазейнов вовсе нет;"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2342529296875,
+            48.7643363613842
+          ],
+          [
+            8.16009521484375,
+            48.793294897853706
+          ],
+          [
+            7.897796630859375,
+            48.47929406532528
+          ],
+          [
+            7.737121582031249,
+            48.19996433122713
+          ],
+          [
+            7.811279296874999,
+            48.05513584361998
+          ],
+          [
+            7.78656005859375,
+            48.02483529097477
+          ],
+          [
+            7.833251953125,
+            47.99911175452292
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "title": "Фрайбург",
+        "seg": 43,
+        "init": "Кирка только древних лет",
+        "fin": "Что есть кирка в стороне."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.833251953125,
+          48.00003067321041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.834625244140624,
+            47.99957121591264
+          ],
+          [
+            7.7838134765625,
+            48.02253906833847
+          ],
+          [
+            7.708969116210937,
+            47.96326115834283
+          ],
+          [
+            7.60528564453125,
+            47.931066347509784
+          ],
+          [
+            7.564773559570312,
+            47.86339196166155
+          ],
+          [
+            7.537994384765625,
+            47.78548011929362
+          ],
+          [
+            7.5537872314453125,
+            47.7416321719316
+          ],
+          [
+            7.520828247070312,
+            47.70283056455047
+          ],
+          [
+            7.5263214111328125,
+            47.660762874112834
+          ],
+          [
+            7.579193115234374,
+            47.62328946917188
+          ],
+          [
+            7.6032257080078125,
+            47.60292227835496
+          ],
+          [
+            7.59429931640625,
+            47.56123740692762
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Базель"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.594985961914062,
+          47.5626274374099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598419189453125,
+            47.55984733956309
+          ],
+          [
+            7.673950195312499,
+            47.52740196355499
+          ],
+          [
+            7.738494873046875,
+            47.53203824675999
+          ],
+          [
+            7.798919677734375,
+            47.462450962249356
+          ],
+          [
+            7.811279296874999,
+            47.39184176086316
+          ],
+          [
+            7.838745117187499,
+            47.349989032003215
+          ],
+          [
+            7.804412841796874,
+            47.31462086107463
+          ],
+          [
+            7.72613525390625,
+            47.287613425713516
+          ],
+          [
+            7.705535888671875,
+            47.2624561696528
+          ],
+          [
+            7.6080322265625,
+            47.21956811231547
+          ],
+          [
+            7.566833496093749,
+            47.07853932995949
+          ],
+          [
+            7.4981689453125,
+            47.01584377790821
+          ],
+          [
+            7.463836669921875,
+            46.965259400349275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Берн"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.462463378906249,
+          46.96713374957253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.465209960937499,
+            46.965259400349275
+          ],
+          [
+            7.6080322265625,
+            46.75679832604253
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Тун"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613525390624999,
+          46.75679832604253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6100921630859375,
+            46.755387052132136
+          ],
+          [
+            7.620391845703124,
+            46.72056392864264
+          ],
+          [
+            7.713088989257813,
+            46.66687348356156
+          ],
+          [
+            7.7611541748046875,
+            46.65273554711876
+          ],
+          [
+            7.827072143554688,
+            46.66027623993407
+          ],
+          [
+            7.868957519531249,
+            46.682892009248675
+          ],
+          [
+            7.7666639,
+            46.5531194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Лаутербруннен"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7666639,
+          46.5531194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.465209960937499,
+            46.96666516842385
+          ],
+          [
+            7.404098510742187,
+            46.953074529521054
+          ],
+          [
+            7.1829986572265625,
+            46.96291637146266
+          ],
+          [
+            7.124633789062499,
+            46.92166226568694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Морат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.11639404296875,
+          46.92494500606732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.115020751953125,
+            46.924007100770275
+          ],
+          [
+            7.00103759765625,
+            46.86347752077682
+          ],
+          [
+            6.9412994384765625,
+            46.8216769734396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Пайерн"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9385528564453125,
+          46.8202673995955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.9385528564453125,
+            46.82214682317531
+          ],
+          [
+            6.9083404541015625,
+            46.76761686478674
+          ],
+          [
+            6.788864135742187,
+            46.65462081890466
+          ],
+          [
+            6.7339324951171875,
+            46.57538281460009
+          ],
+          [
+            6.6350555419921875,
+            46.52249306235416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        " title": "Лозанна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6309356689453125,
+          46.52013071095869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Мон Блан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8564201,
+          45.8326215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Шилионский замок"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9275665283203125,
+          46.41414760139055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Веве"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84173583984375,
+          46.46080204440721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Морж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.498241424560547,
+          46.508671849518414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Роль"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.338081359863281,
+          46.459737792519306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Нион"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.239891052246094,
+          46.38199121488583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.627845764160156,
+            46.503827686763586
+          ],
+          [
+            6.502189636230469,
+            46.50784482789971
+          ],
+          [
+            6.4249420166015625,
+            46.45394316729876
+          ],
+          [
+            6.340484619140625,
+            46.45820050306708
+          ],
+          [
+            6.286582946777344,
+            46.39075359957966
+          ],
+          [
+            6.2450408935546875,
+            46.38151753240084
+          ],
+          [
+            6.149597167968749,
+            46.20312161266488
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Женева"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.145820617675781,
+          46.20217114444467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Тонен"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.176719665527344,
+          46.30863995802435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Коппей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.191997528076171,
+          46.31634705751069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Ферне"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.106681823730468,
+          46.25679635768958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.145477294921875,
+            46.20312161266488
+          ],
+          [
+            6.106681823730468,
+            46.25727112112845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.148223876953125,
+            46.20454728416395
+          ],
+          [
+            6.278686523437499,
+            46.37725420510028
+          ],
+          [
+            6.572570800781249,
+            46.45678142812658
+          ],
+          [
+            6.928253173828124,
+            46.417032314661775
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.929283142089844,
+            46.41502042817326
+          ],
+          [
+            6.934261322021484,
+            46.40413128408044
+          ],
+          [
+            6.927223205566406,
+            46.397738817459604
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Вильнёв"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.927051544189453,
+          46.39809397414284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Клюз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5787506103515625,
+          46.05941467808127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Саланш"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.637802124023437,
+          45.93873576672614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Серво"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7486348,
+          45.9458584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.639862060546875,
+            45.93825825275084
+          ],
+          [
+            6.68243408203125,
+            45.92536382097964
+          ],
+          [
+            6.74835205078125,
+            45.94637543106672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.930999755859375,
+            46.395252655951154
+          ],
+          [
+            6.878814697265625,
+            46.357354276167015
+          ],
+          [
+            6.72637939453125,
+            46.40661704105617
+          ],
+          [
+            6.499786376953125,
+            46.37725420510028
+          ],
+          [
+            6.611022949218749,
+            46.306149740069664
+          ],
+          [
+            6.62750244140625,
+            46.25204849722289
+          ],
+          [
+            6.689300537109375,
+            46.1912395780416
+          ],
+          [
+            6.576690673828125,
+            46.06084407436472
+          ],
+          [
+            6.628875732421875,
+            46.0017315150253
+          ],
+          [
+            6.6357421875,
+            45.93969078234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Гласье Босона"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8364674,
+          45.8689873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Шамуни"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86920166015625,
+          45.921065010863714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.7490386962890625,
+            45.94661415361444
+          ],
+          [
+            6.759681701660155,
+            45.92608025694781
+          ],
+          [
+            6.789894104003905,
+            45.89144193429572
+          ],
+          [
+            6.867828369140624,
+            45.920348510126516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Мер де Гляс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.937522888183593,
+          45.91461617112911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Зелёная иголка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9656598,
+          45.934875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.86920166015625,
+            45.92082617831274
+          ],
+          [
+            6.937522888183593,
+            45.91497445966544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Писваш"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1956548,
+          46.0495312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.645797729492187,
+            46.30899569419859
+          ],
+          [
+            8.004913330078125,
+            46.3161099321717
+          ],
+          [
+            8.059158325195312,
+            46.29381556233369
+          ],
+          [
+            8.048171997070312,
+            46.252760702497454
+          ],
+          [
+            8.016586303710938,
+            46.22806552245937
+          ],
+          [
+            8.057785034179688,
+            46.19646798981256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Симплон"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.060188293457031,
+          46.19527975808817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Сион"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.320327758789063,
+          46.214050815339526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Мартиньи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0800018310546875,
+          46.10442288519013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.0806884765625,
+            46.10942153064161
+          ],
+          [
+            7.325134277343749,
+            46.223552702209886
+          ],
+          [
+            7.643737792968749,
+            46.31089291474789
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Бриг"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.005599975585938,
+          46.3161099321717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Бавена"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.504447937011719,
+          45.90840546895658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.06671142578125,
+            46.1912395780416
+          ],
+          [
+            8.26446533203125,
+            46.20834889395228
+          ],
+          [
+            8.294677734375,
+            46.11513371326539
+          ],
+          [
+            8.26171875,
+            46.010316293096196
+          ],
+          [
+            8.39630126953125,
+            45.98551218814564
+          ],
+          [
+            8.4979248046875,
+            45.91103315853962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Изола Мадре"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538007736206055,
+          45.911630343368486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.507194519042969,
+            45.909361006834665
+          ],
+          [
+            8.538265228271484,
+            45.91043596728516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.538007736206055,
+            45.9103463880428
+          ],
+          [
+            8.52590560913086,
+            45.895354758617245
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Изола Белла"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.52715015411377,
+          45.895354758617245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.526420593261719,
+            45.894787266838584
+          ],
+          [
+            8.575000762939453,
+            45.880807217630455
+          ],
+          [
+            8.588390350341797,
+            45.8557059963863
+          ],
+          [
+            8.580322265624998,
+            45.810854192882644
+          ],
+          [
+            8.554401397705078,
+            45.79757112569381
+          ],
+          [
+            8.556976318359373,
+            45.771234966487924
+          ],
+          [
+            8.577919006347656,
+            45.752912029787566
+          ],
+          [
+            8.594226837158203,
+            45.729071232850465
+          ],
+          [
+            8.620662689208984,
+            45.724757237460835
+          ],
+          [
+            8.629932403564453,
+            45.72379852657417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Сесто Календе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.631992340087889,
+          45.724877075164834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.637313842773438,
+            45.723918366334765
+          ],
+          [
+            8.697052001953125,
+            45.719603972998634
+          ],
+          [
+            8.822021484374998,
+            45.78428489134373
+          ],
+          [
+            8.968963623046875,
+            45.78332720254533
+          ],
+          [
+            9.081573486328125,
+            45.78859428734741
+          ],
+          [
+            9.106979370117188,
+            45.79529713006591
+          ],
+          [
+            9.092559814453125,
+            45.80391388619765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Комо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.091873168945312,
+          45.80487122128867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "вилла д'Эст"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07994270324707,
+          45.84521391391277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.07994270324707,
+            45.81360614402168
+          ],
+          [
+            9.080801010131836,
+            45.81540082150529
+          ],
+          [
+            9.07341957092285,
+            45.82383503096524
+          ],
+          [
+            9.084234237670898,
+            45.83657364805668
+          ],
+          [
+            9.080114364624023,
+            45.84524380869701
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Торно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.115734100341797,
+          45.857379763789915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Вилла Мельдзи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.256753921508789,
+          45.98299239926461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.081573486328125,
+            45.84506443975059
+          ],
+          [
+            9.098052978515625,
+            45.84602106744843
+          ],
+          [
+            9.113502502441406,
+            45.86275938922635
+          ],
+          [
+            9.150238037109375,
+            45.88283872530761
+          ],
+          [
+            9.139938354492188,
+            45.93133383799366
+          ],
+          [
+            9.184913635253906,
+            45.959264977507075
+          ],
+          [
+            9.218902587890625,
+            45.967140446803
+          ],
+          [
+            9.2559814453125,
+            45.98408084285212
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.10491943359375,
+            45.80199916666154
+          ],
+          [
+            9.1790771484375,
+            45.47554027158593
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Милан"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1790771484375,
+          45.47361429775641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Вилла Пиццо"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.08768892288208,
+          45.84611075045171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Вилла Жено"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.076831340789793,
+          45.82329671534156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Вилла Плиньяна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.13938045501709,
+          45.857865445793394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.261474609375,
+            45.537136680398596
+          ],
+          [
+            9.656982421875,
+            45.67548217560647
+          ],
+          [
+            10.469970703124998,
+            45.4524242413431
+          ],
+          [
+            11.00830078125,
+            45.40230699238177
+          ],
+          [
+            11.4862060546875,
+            45.4947963896697
+          ],
+          [
+            11.964111328125,
+            45.42929873257377
+          ],
+          [
+            12.227783203125,
+            45.46783598133375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Венеция"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3651123046875,
+          45.433153642271385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.271728515625,
+            45.463983441272724
+          ],
+          [
+            11.9476318359375,
+            45.41773242370463
+          ],
+          [
+            11.7938232421875,
+            45.29034662473613
+          ],
+          [
+            11.574096679687498,
+            44.902577996288876
+          ],
+          [
+            11.337890625,
+            44.52001001133986
+          ],
+          [
+            11.2060546875,
+            44.08758502824516
+          ],
+          [
+            11.25,
+            43.75919263886012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Флоренция"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.25,
+          43.74728909225908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.2445068359375,
+            43.75125720420175
+          ],
+          [
+            11.77734375,
+            43.44494295526125
+          ],
+          [
+            11.788330078125,
+            43.23319741022136
+          ],
+          [
+            12.0684814453125,
+            42.74701217318067
+          ],
+          [
+            12.2003173828125,
+            42.69051116998238
+          ],
+          [
+            12.271728515625,
+            42.524748042348165
+          ],
+          [
+            12.491455078125,
+            42.374778361114195
+          ],
+          [
+            12.491455078125,
+            42.29762739128456
+          ],
+          [
+            12.6397705078125,
+            42.15118709351198
+          ],
+          [
+            12.540893554687498,
+            42.07376224008719
+          ],
+          [
+            12.4749755859375,
+            41.902277040963696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Рим"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.480468749999998,
+          41.89001042401827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.480468749999998,
+            41.89818843043047
+          ],
+          [
+            13.0572509765625,
+            41.74672584176937
+          ],
+          [
+            13.3319091796875,
+            41.6154423246811
+          ],
+          [
+            14.0789794921875,
+            41.31494988250965
+          ],
+          [
+            14.3206787109375,
+            41.03378713521864
+          ],
+          [
+            14.3206787109375,
+            40.83043687764923
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Неаполь"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.315185546875,
+          40.83043687764923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Искья"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.932723999023438,
+          40.72852712420599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Прочида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.014434814453123,
+          40.763381209080215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "tilte": "Капре"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.22454833984375,
+          40.551374198715166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Ле Везюв"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.429168701171875,
+          40.82576077323659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Помпеи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.500751495361328,
+          40.74881754464601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Драхенфельс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2015168,
+          50.6651076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "title": "Рюдесгейм"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.912366390228272,
+          49.97668656179061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "башня Гидельсгейм",
+        "seg": 31,
+        "init": "Это башня Гидельсгейм,",
+        "fin": "Же н’ сепа, здесь в гиде штрих."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.115291595458984,
+          49.99582254106424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "Из Питера мимо Петергофа",
+        "init": "Мы пустились по водам,",
+        "fin": "Исчезает, как дома.",
+        "seg": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.303,
+            59.944
+          ],
+          [
+            30.248107910156254,
+            59.91786018266457
+          ],
+          [
+            29.94049072265625,
+            59.93575245264128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "От Петергофа в Кронштадт",
+        "init": "Но адье и Петергофу;",
+        "fin": "Вот является Кронштадт.",
+        "seg": 5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.94049072265625,
+            59.93575245264128
+          ],
+          [
+            29.777472,
+            59.992884
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "title": "Из Любека в Гамбург",
+        "seg": 10,
+        "init": "Город Любек оставляю,",
+        "fin": "Или деньги занимать"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.6949,
+            53.8745
+          ],
+          [
+            10.663604736328125,
+            53.880059483052605
+          ],
+          [
+            10.523529052734373,
+            53.82011176955965
+          ],
+          [
+            10.479583740234375,
+            53.81930107730406
+          ],
+          [
+            10.364227294921875,
+            53.74952285419748
+          ],
+          [
+            10.28594970703125,
+            53.64952199454264
+          ],
+          [
+            10.226898193359375,
+            53.61857936489517
+          ],
+          [
+            10.226898193359375,
+            53.60228465401125
+          ],
+          [
+            10.171966552734375,
+            53.55744177032552
+          ],
+          [
+            10.128021240234375,
+            53.56641415275043
+          ],
+          [
+            9.941934,
+            53.567103
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 20,
+        "tilte": "Рейн",
+        "init": "Задымился пароход,",
+        "fin": "Задает ужасный тон!"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.938399,
+            50.930779
+          ],
+          [
+            6.966361999511719,
+            50.93052164082761
+          ],
+          [
+            6.978034973144531,
+            50.90952771558264
+          ],
+          [
+            6.9907379150390625,
+            50.89870240470782
+          ],
+          [
+            7.0168304443359375,
+            50.89350536138496
+          ],
+          [
+            7.0367431640625,
+            50.89480467658874
+          ],
+          [
+            7.04498291015625,
+            50.89220600993186
+          ],
+          [
+            7.050132751464844,
+            50.886791655353164
+          ],
+          [
+            7.051849365234375,
+            50.87899387909616
+          ],
+          [
+            7.03125,
+            50.870978137947134
+          ],
+          [
+            7.0195770263671875,
+            50.86469456623886
+          ],
+          [
+            7.001380920410155,
+            50.85125788209827
+          ],
+          [
+            6.983528137207031,
+            50.844538088124544
+          ],
+          [
+            6.978721618652344,
+            50.83803414003555
+          ],
+          [
+            6.984901428222656,
+            50.82784279858373
+          ],
+          [
+            7.02301025390625,
+            50.820685846099174
+          ],
+          [
+            7.030220031738281,
+            50.81049071671237
+          ],
+          [
+            7.0291900634765625,
+            50.793349208080215
+          ],
+          [
+            7.052192687988281,
+            50.776418510713576
+          ],
+          [
+            7.0896148681640625,
+            50.760350386522795
+          ],
+          [
+            7.106781005859375,
+            50.74405949392838
+          ],
+          [
+            7.090358,
+            50.736605
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "Эренбрейтенштейн",
+        "init": "Здесь поставлен превысоко",
+        "fin": "Матушку хоть репку пой!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6154136657714835,
+          50.36450406234263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 22,
+        "title": "От Бонна до Эренбрейтенштейна",
+        "init": "Вот проехали мы Бонн.",
+        "fin": "Город Кобленц недалеко."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.090358,
+            50.736605
+          ],
+          [
+            7.110729217529297,
+            50.73765018916071
+          ],
+          [
+            7.112274169921875,
+            50.73058807507306
+          ],
+          [
+            7.126007080078125,
+            50.72189478059448
+          ],
+          [
+            7.153644561767578,
+            50.71439551849199
+          ],
+          [
+            7.1690940856933585,
+            50.703090015355244
+          ],
+          [
+            7.176303863525391,
+            50.68569160971181
+          ],
+          [
+            7.207546234130859,
+            50.65457588031958
+          ],
+          [
+            7.212696075439453,
+            50.64739239844984
+          ],
+          [
+            7.213554382324219,
+            50.60306998511102
+          ],
+          [
+            7.209434509277344,
+            50.59402613289657
+          ],
+          [
+            7.213897705078124,
+            50.58879516018368
+          ],
+          [
+            7.224369049072266,
+            50.58258262515056
+          ],
+          [
+            7.256641387939452,
+            50.57756840272205
+          ],
+          [
+            7.265911102294922,
+            50.574188951711456
+          ],
+          [
+            7.276725769042969,
+            50.5635039311146
+          ],
+          [
+            7.295093536376953,
+            50.52194016211821
+          ],
+          [
+            7.311916351318359,
+            50.50250936224977
+          ],
+          [
+            7.346248626708984,
+            50.47487766478131
+          ],
+          [
+            7.381782531738282,
+            50.44865084166792
+          ],
+          [
+            7.399463653564453,
+            50.442747802082984
+          ],
+          [
+            7.430706024169922,
+            50.44482488145606
+          ],
+          [
+            7.443923950195312,
+            50.4389213645994
+          ],
+          [
+            7.454051971435547,
+            50.4242687158765
+          ],
+          [
+            7.4808311462402335,
+            50.411580671328586
+          ],
+          [
+            7.507953643798828,
+            50.413987285763
+          ],
+          [
+            7.528209686279297,
+            50.422190734422955
+          ],
+          [
+            7.546234130859374,
+            50.42055015834603
+          ],
+          [
+            7.571125030517578,
+            50.41114309193372
+          ],
+          [
+            7.583656311035156,
+            50.400968231716796
+          ],
+          [
+            7.609233856201172,
+            50.38772670232877
+          ],
+          [
+            7.614555358886718,
+            50.37907941060998
+          ],
+          [
+            7.6091,
+            50.3653
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 24,
+        "init": "Матушку хоть репку пой!",
+        "title": "от Эренбрейтенштейна до Кобленца"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6091,
+            50.3653
+          ],
+          [
+            7.604427337646484,
+            50.35345666157135
+          ],
+          [
+            7.5975,
+            50.3542
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 26,
+        "tilte": "От Кобленца до Мейзе-турм",
+        "init": "Тут всё горы близ Нейвида.",
+        "fin": "Тут плывем между горами. "
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.597389221191406,
+            50.35422335480388
+          ],
+          [
+            7.603569030761718,
+            50.352799486089104
+          ],
+          [
+            7.58880615234375,
+            50.3217923756109
+          ],
+          [
+            7.592239379882813,
+            50.308857636679754
+          ],
+          [
+            7.6059722900390625,
+            50.292958434740015
+          ],
+          [
+            7.64974594116211,
+            50.265533536428585
+          ],
+          [
+            7.652320861816405,
+            50.25697373418781
+          ],
+          [
+            7.648200988769531,
+            50.25005892479508
+          ],
+          [
+            7.6375579833984375,
+            50.24566804876223
+          ],
+          [
+            7.595844268798827,
+            50.250168691512464
+          ],
+          [
+            7.585029602050781,
+            50.24753422050859
+          ],
+          [
+            7.577648162841798,
+            50.241057193511956
+          ],
+          [
+            7.581424713134765,
+            50.23501849426766
+          ],
+          [
+            7.600650787353515,
+            50.23381066262723
+          ],
+          [
+            7.614898681640625,
+            50.2266728510544
+          ],
+          [
+            7.6197052001953125,
+            50.21535997703798
+          ],
+          [
+            7.63772964477539,
+            50.20701089344406
+          ],
+          [
+            7.645969390869141,
+            50.19811091985665
+          ],
+          [
+            7.646656036376952,
+            50.19151727693197
+          ],
+          [
+            7.643222808837891,
+            50.18327394274949
+          ],
+          [
+            7.645111083984375,
+            50.179096777005256
+          ],
+          [
+            7.657299041748046,
+            50.17458942534465
+          ],
+          [
+            7.678070068359375,
+            50.170301549863765
+          ],
+          [
+            7.6923179626464835,
+            50.16942193810324
+          ],
+          [
+            7.701759338378906,
+            50.16524356113616
+          ],
+          [
+            7.708282470703125,
+            50.15666574810977
+          ],
+          [
+            7.724761962890626,
+            50.14797639414881
+          ],
+          [
+            7.725105285644531,
+            50.140165627475554
+          ],
+          [
+            7.727851867675781,
+            50.13774513107287
+          ],
+          [
+            7.735404968261718,
+            50.136094722401
+          ],
+          [
+            7.739009857177734,
+            50.13015277977972
+          ],
+          [
+            7.727851867675781,
+            50.12024790235603
+          ],
+          [
+            7.721500396728515,
+            50.11551484842231
+          ],
+          [
+            7.733001708984375,
+            50.10637763033234
+          ],
+          [
+            7.757205963134766,
+            50.08864865790474
+          ],
+          [
+            7.7733421325683585,
+            50.07487940350127
+          ],
+          [
+            7.7748870849609375,
+            50.064412124972215
+          ],
+          [
+            7.7733421325683585,
+            50.05614687023125
+          ],
+          [
+            7.805442810058593,
+            50.0392813348848
+          ],
+          [
+            7.830848693847655,
+            50.02119666339291
+          ],
+          [
+            7.852993011474609,
+            50.013144588751366
+          ],
+          [
+            7.859001159667968,
+            50.005753140834116
+          ],
+          [
+            7.857971191406249,
+            49.99902262498662
+          ],
+          [
+            7.865180969238281,
+            49.981695487970676
+          ],
+          [
+            7.872219085693359,
+            49.975734392872745
+          ],
+          [
+            7.8775,
+            49.9737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "title": "Йоганнисберг",
+        "init": "Вола ле Йоганнисберг! ",
+        "fin": "Всё охотно принимает…",
+        "seg": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.983734607696533,
+          49.99983640546333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 28,
+        "title": "От Мышиной башни до Йоганнисберга",
+        "init": "Берега здесь изменились:",
+        "fin": "И суровость всю отверг."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.8775,
+            49.9737
+          ],
+          [
+            7.885951995849609,
+            49.971980731862054
+          ],
+          [
+            7.926120758056641,
+            49.974078402049734
+          ],
+          [
+            7.937965393066405,
+            49.97220154355615
+          ],
+          [
+            7.953414916992187,
+            49.976396773245
+          ],
+          [
+            7.971267700195312,
+            49.97849425093581
+          ],
+          [
+            7.988090515136719,
+            49.98478613540783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 30,
+        "title": "От Йоханнесберга до башни Гидельсгейм",
+        "init": "Далее наш глаз встречает",
+        "fin": "Маркебрун и Рюдесгейм."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.988090515136719,
+            49.98478613540783
+          ],
+          [
+            8.021907806396483,
+            49.99670534410904
+          ],
+          [
+            8.036670684814453,
+            50.003215516017676
+          ],
+          [
+            8.055896759033203,
+            50.005863469309006
+          ],
+          [
+            8.07821273803711,
+            50.00696674012984
+          ],
+          [
+            8.096580505371094,
+            50.01193114544658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 32,
+        "title": "от Гидельсгейма до Бибериха",
+        "init": "Же н’ сепа, здесь в гиде штрих.",
+        "fin": "Же н’ сепа, здесь в гиде штрих."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.096580505371094,
+            50.01193114544658
+          ],
+          [
+            8.1134033203125,
+            50.019762831047636
+          ],
+          [
+            8.135547637939453,
+            50.02560818681963
+          ],
+          [
+            8.164386749267578,
+            50.03156310080887
+          ],
+          [
+            8.195457458496094,
+            50.03740702067149
+          ],
+          [
+            8.215713500976562,
+            50.03817880597379
+          ],
+          [
+            8.231678009033203,
+            50.03641470705322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 34,
+        "title": "От Бибериха до Майнца",
+        "init": "Вот является Маянс,",
+        "fin": "Вот является Маянс,"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.23202133178711,
+            50.03641470705322
+          ],
+          [
+            8.242664337158203,
+            50.031893907715165
+          ],
+          [
+            8.247814178466797,
+            50.02560818681963
+          ],
+          [
+            8.260345458984375,
+            50.01799805556886
+          ],
+          [
+            8.272876739501953,
+            50.0091732058009
+          ],
+          [
+            8.275794982910156,
+            50.006084125499044
+          ],
+          [
+            8.260656,
+            50.000176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "seg": 36,
+        "title": "От Майнца до Франкфурта",
+        "init": "К Франкфурту направлю путь.",
+        "fin": "Видеть русских рандеву"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.26068878173828,
+            50.00034673534484
+          ],
+          [
+            8.281288146972656,
+            50.00851127673542
+          ],
+          [
+            8.282489776611328,
+            50.013916763992015
+          ],
+          [
+            8.288841247558594,
+            50.021637833966786
+          ],
+          [
+            8.28969955444336,
+            50.0236230514132
+          ],
+          [
+            8.29416275024414,
+            50.031232291623766
+          ],
+          [
+            8.301887512207031,
+            50.05052568361258
+          ],
+          [
+            8.315792083740234,
+            50.05636729550462
+          ],
+          [
+            8.444366455078125,
+            50.05515494396976
+          ],
+          [
+            8.487281799316406,
+            50.0823703684395
+          ],
+          [
+            8.482818603515625,
+            50.09635771289063
+          ],
+          [
+            8.568134307861328,
+            50.128942293599195
+          ],
+          [
+            8.573799133300781,
+            50.128942293599195
+          ],
+          [
+            8.589763641357422,
+            50.13466432216694
+          ],
+          [
+            8.607101440429688,
+            50.13070299064921
+          ],
+          [
+            8.622722625732422,
+            50.13499441832415
+          ],
+          [
+            8.664093017578125,
+            50.13125319519268
+          ],
+          [
+            8.672332763671875,
+            50.13158331488228
+          ],
+          [
+            8.677654266357422,
+            50.11892709716469
+          ],
+          [
+            8.686580657958983,
+            50.114744306984335
+          ]
+        ]
+      }
+    }
+  ]
+}
