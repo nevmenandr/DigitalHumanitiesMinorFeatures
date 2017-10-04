@@ -1,0 +1,240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f60909",
+        "marker-size": "small",
+        "marker-symbol": "town",
+        "text": "Я большой эффект в Тамбове"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.44798278808594,
+          52.7267282844532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2269ec",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "text": "В город Питер дотащилась"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.322265625000004,
+          59.93300042374631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#3826d3",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desctiption": "Путь от Тамбова в Петербург"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.5283203125,
+            52.696361078274485
+          ],
+          [
+            30.3662109375,
+            59.93300042374631
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#de3655",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "description": "Путь из Петербурга в Кронштадт"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.316085815429688,
+            59.942631525914166
+          ],
+          [
+            30.311965942382812,
+            59.94710215833545
+          ],
+          [
+            30.294113159179684,
+            59.94641440797072
+          ],
+          [
+            30.270080566406246,
+            59.95501026206206
+          ],
+          [
+            30.248794555664062,
+            59.96016670455704
+          ],
+          [
+            30.213088989257816,
+            59.96704071310289
+          ],
+          [
+            30.02975463867188,
+            59.92474296688904
+          ],
+          [
+            29.99404907226562,
+            59.923710640259905
+          ],
+          [
+            29.78736877441406,
+            59.96841534365748
+          ],
+          [
+            29.766769409179688,
+            59.9876541821155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town",
+        "text": "Вот является Кронштадт"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.758529663085938,
+          59.99932945209936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "town",
+        "text": "Кстати, берег Петергофа / Нам синеется"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9102783203125,
+          59.87997934503246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "library",
+        "text": "Как вдруг появился мне / Остров Борнгольм в стороне."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5009765625,
+          57.468589192089354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "description": "Путь от Кронштадта до Борнгольма"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.0146484375,
+            60.02095215374802
+          ],
+          [
+            26.015625,
+            59.91097597079679
+          ],
+          [
+            21.62109375,
+            59.22093407615045
+          ],
+          [
+            18.1494140625,
+            57.98480801923985
+          ],
+          [
+            17.05078125,
+            56.07203547180089
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "text": "Город Любек град ганзейский"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.821533203125,
+          53.91081008725409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.05078125,
+            56.07203547180089
+          ],
+          [
+            15.776367187499998,
+            54.99022172004893
+          ],
+          [
+            13.842773437499998,
+            54.91451400766527
+          ],
+          [
+            12.50244140625,
+            54.78801734817893
+          ],
+          [
+            10.87646484375,
+            53.94315470224928
+          ]
+        ]
+      }
+    }
+  ]
+}
