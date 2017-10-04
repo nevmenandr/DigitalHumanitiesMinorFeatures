@@ -23,7 +23,8 @@
         "marker-color": "#2269ec",
         "marker-size": "medium",
         "marker-symbol": "city",
-        "text": "В город Питер дотащилась"
+        "text": "В город Питер дотащилась",
+        "title": "Санкт-Петербург"
       },
       "geometry": {
         "type": "Point",
