@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "точка на карте"
+      },
+      "geometry": {
+        "coordinates": [
+          47.943643770113226,
+          53.75804284580997
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "точка на карте",
+        "название2": "точка на карте2"
+      },
+      "geometry": {
+        "coordinates": [
+          52.054350375075614,
+          52.68028086136536
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
